@@ -1,4 +1,6 @@
-# Sitidoorshttps: 
+# Sitidoors
+
+Ссылка на изображение: https://github.com/Elena313-163/Sitidoors/blob/main/Скрин%202.png?raw=true
 
 
 # Проект: ИИ-ассистент для компании по продаже и установке межкомнатных и входных дверей
