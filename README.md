@@ -1,7 +1,7 @@
 # Sitidoors
 
 Ссылка на скриншот работы бота: ](https://raw.githubusercontent.com/Elena313-163/Sitidoors/refs/heads/main/Скрин%201.png)
-
+https://raw.githubusercontent.com/Elena313-163/Sitidoors/refs/heads/main/Скрин%202.png
 # Проект: ИИ-ассистент для компании по продаже и установке межкомнатных и входных дверей
 
 ## Описание проекта
